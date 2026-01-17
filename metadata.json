@@ -1,0 +1,10 @@
+
+{
+  "name": "Epístolas Pastorales - Clase 1",
+  "description": "Estudio introductorio y análisis de 1 Timoteo 1 en el contexto del ministerio cristiano.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

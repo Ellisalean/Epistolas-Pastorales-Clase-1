@@ -49,7 +49,7 @@ export const COUNSELING_LESSON: Lesson = {
             title: 'Autoridad',
             text: 'Escritas por líderes bajo inspiración divina.',
             icon: 'Shield',
-            image: 'https://images.unsplash.com/photo-1589188059167-e41136d28de6?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://definicion.de/wp-content/uploads/2009/03/juez.jpg'
           }
         ]
       }
@@ -128,7 +128,7 @@ export const COUNSELING_LESSON: Lesson = {
       subtitle: 'Explora el escenario de la carta',
       visual: {
         type: 'image',
-        source: 'https://images.unsplash.com/photo-1548544149-4835e62ee5b3?q=80&w=1974&auto=format&fit=crop',
+        source: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/f3583f8b-5724-45ae-8465-dfc3b7ec2d98_rw_1920.jpg?h=e47e277c66913a04f81ade7ed822cd2e',
         position: 'background'
       },
       interaction: {
@@ -179,7 +179,7 @@ export const COUNSELING_LESSON: Lesson = {
             text: 'Apóstol por mandato de Dios.',
             longContent: 'Su autoridad no es autoimpuesta, sino divina. Usa lenguaje militar para enfatizar la obediencia al llamado.',
             icon: 'Anchor',
-            image: 'https://images.unsplash.com/photo-1461360370896-922624d12aa1?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/39e0c6aa-7268-4558-95c1-3f4c48b54c1f_rw_1920.jpg?h=29c3556ef49806357bc29115d22a7f5f'
           },
           {
             title: 'Esperanza Viva',
@@ -209,14 +209,14 @@ export const COUNSELING_LESSON: Lesson = {
             text: 'El fin de la instrucción es el amor.',
             longContent: 'No se trata solo de información, sino de una transformación que produce fe no fingida y buena conciencia.',
             icon: 'Heart',
-            image: 'https://images.unsplash.com/photo-1518199266791-bd373290b0b9?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/ad7dbe2d-8c56-4bb2-9de4-bd969418a46b_rw_1920.jpg?h=a442aa74e88363c2aff40570c6c7ed68'
           },
           {
             title: 'Advertencia sobre la Ley',
             text: 'La ley es para los injustos.',
             longContent: 'La ley no salva, sino que convence de pecado. Es un espejo que muestra la necesidad del glorioso Evangelio.',
             icon: 'FileText',
-            image: 'https://images.unsplash.com/photo-1589188059167-e41136d28de6?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/e7712dd5-210c-4334-b5d3-796109e4e0bf_rw_1920.jpg?h=253c37c9a96d7b2590053a590c6f2a1a'
           }
         ]
       }
@@ -262,14 +262,14 @@ export const COUNSELING_LESSON: Lesson = {
             text: 'Blasfemo e injuriador.',
             longContent: 'Pablo no oculta quién era antes de Cristo. Su vida demuestra que nadie está fuera del alcance de la gracia.',
             icon: 'History',
-            image: 'https://images.unsplash.com/photo-1461360370896-922624d12aa1?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/feccdc83-9926-48d2-ba6b-1640be008819_rw_1920.png?h=443949ec3ca7a211c56464dbbe98fe3a'
           },
           {
             title: 'Gracia Abundante',
             text: 'Fui recibido a misericordia.',
             longContent: 'La gracia no es merecida, es soberana. Dios lo puso en el ministerio considerándolo fiel.',
             icon: 'Zap',
-            image: 'https://images.unsplash.com/photo-1490730141103-6ac27d020028?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/fd375138-7ba2-4b42-82e8-811a6ff022e7_rw_1920.jpg?h=3b86a8b83afcaaea5917d3a3309ab476'
           },
           {
             title: 'El Propósito',
@@ -299,14 +299,14 @@ export const COUNSELING_LESSON: Lesson = {
             text: 'Pelear la buena batalla (v. 18).',
             longContent: 'Una metáfora militar que implica disciplina y esfuerzo continuo en la defensa de la fe.',
             icon: 'Sword',
-            image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/ef99ced5-eee8-458e-8d93-13bcfcf3915f_rw_1920.jpg?h=ef3a21b632b9a50bf94527c0def4a7c4'
           },
           {
             title: 'Las Armas',
             text: 'Fe y buena conciencia.',
             longContent: 'Sin una buena conciencia, el ministerio naufraga. Es el motor interno de la integridad ministerial.',
             icon: 'Shield',
-            image: 'https://images.unsplash.com/photo-1510519133411-2adbf72750e5?q=80&w=1760&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/bc1c800a-4e9c-429f-a57e-dc667b6b1ca4_rw_1920.jpg?h=362615517104a84c3785efcb14a8b793'
           },
           {
             title: 'La Disciplina',
@@ -331,7 +331,7 @@ export const COUNSELING_LESSON: Lesson = {
             title: 'Epistolē',
             text: 'Término griego para "carta" o "mensaje enviado".',
             icon: 'Mail',
-            image: 'https://images.unsplash.com/photo-1523966211575-eb4a01e7dd51?q=80&w=2020&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/8c0a57e5-0e0b-4d15-860b-db19a2f817ca_rw_1920.jpg?h=a626b46f8a8d71303dec95d74ce8e02c'
           },
           {
             title: 'Sana Doctrina',
@@ -343,7 +343,7 @@ export const COUNSELING_LESSON: Lesson = {
             title: 'Fin de la Ley',
             text: 'Convencer de pecado, no para justificar al justo.',
             icon: 'Scale',
-            image: 'https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=2070&auto=format&fit=crop'
+            image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/652447e5-c88f-411f-8fec-b2c6bf7ecf4c_rw_1920.jpg?h=123ceda76331a92ebc3f4964ed158f7b'
           }
         ]
       }
